@@ -1,0 +1,15 @@
+{
+    "name": "nodeserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "pawan bhatta",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.4",
+        "socket.io": "^2.3.0"
+    }
+}
